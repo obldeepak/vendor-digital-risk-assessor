@@ -124,9 +124,11 @@ This contains everything you need to run your app locally.
 
 **Prerequisites:**  Node.js
 
+## Limitations & Disclaimer
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+*   **Public Data Reliance:** The analysis is based solely on publicly available information. The accuracy and completeness of this data can vary depending on the AI used(Google Gemini).
+*   **AI Interpretation:** While AI enhances analysis, its interpretations (e.g., sentiment, content relevance) are not infallible and can be subject to biases or errors. Please do your own review and research before using this information.
+*   **Not Exhaustive:** This tool provides a high-level overview and is NOT a substitute for comprehensive professional due diligence, legal review, or in-depth security penetration testing.
+*   **Passive Checks Only:** Vulnerability scanning is passive and relies on public information. No active or intrusive scanning is performed.
+*   **Dynamic Web:** The internet is constantly changing. Results reflect a snapshot in time.
+*   **Ethical Use:** This tool should be used responsibly and ethically.
