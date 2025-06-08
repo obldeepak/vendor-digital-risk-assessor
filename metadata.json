@@ -1,0 +1,5 @@
+{
+  "name": "Third-Party Digital Risk Analyzer",
+  "description": "An AI-powered web application to analyze the digital risk profile of third-party vendors based on their domain. It performs several checks, including DMARC, website security, GRC policies, breach history, and more, providing a risk score and summary. (Simulated Analysis)",
+  "requestFramePermissions": []
+}
